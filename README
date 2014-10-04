@@ -1,0 +1,17 @@
+Name: Noah Herron
+Email: njh@g.clemson.edu , jayssbronze@gmail.com
+Date: 7/10/2013
+
+Proj No: 2
+Description: This is a graphic user interface for project one.
+It allows you to search directories for same named files. 
+
+The Specs that I implemented are: Refactored the view.py that was
+given to us as a starting point. This program allows you to Search
+for same named file, compare files on their content, rename files
+and delete files. 
+
+The Specs that I was unable to implement are:
+
+Extras: byte compare, rename, delete
+

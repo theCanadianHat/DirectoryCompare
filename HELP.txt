@@ -1,0 +1,34 @@
+This is the Directory Manager Help!
+
+[SEARCH/GREEN]
+After filling the Source and Destination
+Directories' boxes, click the GREEN Search
+button to list the contents of the directories,
+and compare the two for same named files.
+
+[CLEAR/YELLOW]
+Resets program to initail state.
+
+[QUIT/RED]
+End program
+
+Double clicking on items in both lists will
+update the labels around the Compare, Rename,
+and Delete buttons.
+
+[COMPARE]
+After selecting a file from each directory with
+a double click, click the Compare button to see
+if the two files are the same (by bytes)
+
+The last file to be double clicked on will be
+reflected in the label between the Rename and
+Delete button.
+
+[RENAME]
+This will rename the last selected name to the
+name of your choosing. All renamed files can be
+found in the RENAMED directory.
+
+[DELETE]
+Deletes the last selected file.
